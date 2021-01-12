@@ -1,3 +1,10 @@
+Javascript Test: 
+- I got the test problem to its current state at 30min. I stopped working on the problem after about 45min. I think I am incredibly close to solving the problem. I just need to take the current values I have, which are random values from the curly braces {}, and replace the original string's curly brace content with a value from the random values. I think it is as simple as a for loop or another map I did not get to it. 
+
+
+Test Information Below: 
+________________________________________________________________________________________________________________________________________________________________
+
 JS-Test -- Write a function that accepts a string and outputs a string
 Your function should replace all of the bracket separated values with a random option from inside
 example input:
